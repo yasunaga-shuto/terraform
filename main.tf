@@ -4,6 +4,6 @@ terraform {
   }
 
   workspace {
-    name = ""
+    name = "terraform"
   }
 }
